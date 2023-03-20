@@ -1,4 +1,4 @@
-package io.questdb;
+package io.questdb.test;
 
 public class AbstractTestSuperclass {
     protected String someUsefulState;

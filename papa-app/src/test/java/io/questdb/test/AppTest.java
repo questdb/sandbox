@@ -1,4 +1,4 @@
-package io.questdb;
+package io.questdb.test;
 
 import org.junit.Test;
 

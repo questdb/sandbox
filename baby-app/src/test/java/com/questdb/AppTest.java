@@ -2,7 +2,7 @@ package com.questdb;
 
 import static org.junit.Assert.assertTrue;
 
-import io.questdb.AbstractTestSuperclass;
+import io.questdb.test.AbstractTestSuperclass;
 import org.junit.Test;
 
 /**
